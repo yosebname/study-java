@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Copy-Item 'C:\\\\study\\\\javascript\\\\���սð�ǥ.md' 'C:\\\\study\\\\java\\(spring,springboot\\)\\\\���սð�ǥ.md' -Force)",
+      "PowerShell(Copy-Item 'C:\\\\study\\\\javascript\\\\���սð�ǥ.md' 'C:\\\\study\\\\Figma\\\\���սð�ǥ.md' -Force)",
+      "PowerShell(Copy-Item 'C:\\\\study\\\\javascript\\\\���ϸ��÷�_1-14��.md' 'C:\\\\study\\\\java\\(spring,springboot\\)\\\\���ϸ��÷�_1-14��.md' -Force)",
+      "PowerShell(Copy-Item 'C:\\\\study\\\\javascript\\\\���ϸ��÷�_1-14��.md' 'C:\\\\study\\\\Figma\\\\���ϸ��÷�_1-14��.md' -Force)",
+      "PowerShell(Copy-Item 'C:\\\\study\\\\javascript\\\\����üũ����Ʈ.md' 'C:\\\\study\\\\java\\(spring,springboot\\)\\\\����üũ����Ʈ.md' -Force)",
+      "PowerShell(Copy-Item 'C:\\\\study\\\\javascript\\\\����üũ����Ʈ.md' 'C:\\\\study\\\\Figma\\\\����üũ����Ʈ.md' -Force)"
+    ]
+  }
+}
